@@ -18,9 +18,14 @@ apply plugin: 'org.ysb33r.vfs'
 apply plugin: 'java'
 apply plugin: 'org.asciidoctor.convert'
 
-githubPages {
+gitPublish {
+
+	//where to publish
   repoUri = 'git@github.com:shearer12345/talk_epitaph.git'
+
+	//branch to publish to
   branch = 'gh-pages' // defaults to gh-pages
+
 
 	// what to publish, this is a standard CopySpec
   contents {
@@ -108,4 +113,4 @@ asciidoctor {
 	dependsOn download
 }
 
-publishGhPages.dependsOn asciidoctor
+gitPublishCommit.dependsOn asciidoctor

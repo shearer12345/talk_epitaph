@@ -16,4 +16,4 @@ TIP: Add the `--daemon` flag if you like, to make repeated builds quicker
 
 * publish to github (gh_pages)
 
-  ./gradlew publishGhPages
+  ./gradlew gitPublishPush
