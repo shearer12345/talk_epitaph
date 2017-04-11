@@ -9,9 +9,11 @@
 == Build Instructions
 
 * generate pdf and html locally (into `build/asciidoc`)
+
   ./gradlew asciidoc
 
 TIP: Add the `--daemon` flag if you like, to make repeated builds quicker
 
 * publish to github (gh_pages)
+
   ./gradlew publishGhPages
