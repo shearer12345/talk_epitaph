@@ -1,0 +1,17 @@
+= Talk for Digital Living History Lab Sandpit, on Epitaph
+
+* Organised by Digital Living History Lab, as part of http://cherish-de.uk/[Cherish Digital Economy]
+  ** in collaboration with http://www.hafodmorfacopperworks.com/[Hafod-Morga Copperworks]
+  ** on April 11th and 12th 2017
+  ** at Liberty Stadium, Swansea
+* hosted online at http://shearer12345.github.io/talk_epitaph
+
+== Build Instructions
+
+* generate pdf and html locally (into `build/asciidoc`)
+  ./gradlew asciidoc
+
+TIP: Add the `--daemon` flag if you like, to make repeated builds quicker
+
+* publish to github (gh_pages)
+  ./gradlew publishGhPages

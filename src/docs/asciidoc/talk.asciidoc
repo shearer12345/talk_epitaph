@@ -1,0 +1,165 @@
+= Talk for Digital Living History Lab Sandpit
+John Shearer <shearer12345@gmail.com>
+
+* Organised by Digital Living History Lab, as part of http://cherish-de.uk/[Cherish Digital Economy]
+  ** in collaboration with http://www.hafodmorfacopperworks.com/[Hafod-Morga Copperworks]
+  ** on April 11th and 12th 2017
+  ** at Liberty Stadium, Swansea
+* hosted online at http://shearer12345.github.io/talk_epitaph
+
+
+== A tiny bit about me
+
+image::shearerPhoto01.png[height=600]
+John Shearer <shearer12345@gmail.com>
+
+Twitter:: @scatterdemic
+
+[quote, John Shearer, my research interests (some of)]
+____
+Intested in “creative play in public spaces”. Research walks between Computer Science and the Arts.
+____
+
+=== intLab
+
+* Interactive Technologies Lab <Lincoln>
+  ** http://intlab.lincoln.ac.uk/
+
+=== previously: openLab / Culture Lab
+
+* https://openlab.ncl.ac.uk/
+  ** PhD
+  ** ++
+
+=== humanaqurium
+
+image::humanaquarium.png[height=600]
+
+=== nightingallery
+
+image::nightingallery.png[height=600]
+
+
+== A tiny bit about Epitaph
+
+[quote, John Shearer, Epitaph summary]
+____
+an interview-based soundscape, presented via a mobile app, to be experienced in cemeteries. The app presents personal anecdotes and fragments of life stories of the dead, triggered by proximity to a grave. These stories are captured through interviews with the families and the communities of those who have passed on.
+____
+
+== The site
+
+https://osm.org/go/ueC4sl~BI--[Tamborine Mountain Cemetery, Australia]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-17_14.17.29.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.43.06.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.45.40.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.50.42.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.50.48.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.53.44.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.54.14.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.55.26.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_10.55.29.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.15.02.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.20.25.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.20.31.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.27.15.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.27.29.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.32.38.jpg[caption="Cemetery"]
+
+=== Tamborine Mountain Cemetery, Australia
+
+image::cemetery/2016-06-18_11.28.09.jpg[caption="Cemetery"]
+
+
+== Some Epitaph Anecdotes
+
+* ... not public at this point
+
+
+== Ethics
+
+* Who has the right to tell stories about the dead?
+* How do we manage the distressing nature of these stories?
+  ** both generally - cemeteries are powerful places
+  ** specifically
+    *** knowing the people involved has more impact
+    *** some stories my be spefically distressing
+
+== Open data
+
+* Want to be able to make the stories openly available
+  ** for other works
+  ** for oral histories
+  ** Creative Commons licenses
+* Concerned about modifications
+* Project is a multi-party collaboration
+* Project is international
+
+== Licencing, copyright assignment
+
+image::Creative_commons_license_spectrum.svg[caption="Creative_commons_license_spectrum.svg", link="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"]
+
+To allow open data.
+
+== Figshare etc
+
+* https://figshare.com/[Figshare]
+
+[quote, https://figshare.com/about, Figshare - about]
+____
+figshare is a repository where users can make
+all of their research outputs available in a citable,
+shareable and discoverable manner
+____
+
+== Bonuses of Open Data
+
+* The open repository stores to data
+  ** runs the server infrastructure
+  ** frees us from doing so (perhaps?)
+* Other parties can present the data in other ways
