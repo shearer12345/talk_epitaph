@@ -26,10 +26,12 @@ gitPublish {
 	//branch to publish to
   branch = 'gh-pages' // defaults to gh-pages
 
+	// generally, you don't need to touch this
+	repoDir = file("$buildDir/gitPublish") // defaults to $buildDir/gitPublish
 
 	// what to publish, this is a standard CopySpec
   contents {
-      file(asciidoctor.outputDir.path + '/html5')
+      from "$buildDir/asciidoc/html5"
   }
 
   // message used when committing changes
@@ -116,4 +118,4 @@ asciidoctor {
 	dependsOn download
 }
 
-gitPublishCommit.dependsOn asciidoctor
+gitPublishCopy.dependsOn asciidoctor
